@@ -3,5 +3,5 @@ home = Dir.home(user)
 
 file "#{home}/names.txt" do
     action :create
-    content: 'Christian Hodges'
+    content 'Christian Hodges'
 end
