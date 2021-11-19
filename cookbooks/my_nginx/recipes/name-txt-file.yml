@@ -1,0 +1,4 @@
+resources:
+  - type: "file"
+    name: "~/name.txt"
+    content: "Christian Hodges - panther"
